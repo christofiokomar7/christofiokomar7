@@ -1,18 +1,19 @@
 <div align="center">
 
-<!-- Header Murim Theme -->
-<img src="https://i.imgur.com/8XyXQrz.gif" width="100%" height="300" style="object-fit: cover;"/>
+<!-- Header dengan Animasi -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=200&section=header&animation=fadeIn" width="100%"/>
+
+<!-- Weapon Divider -->
+⚔️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⚔️
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+There%2C+This+Is+Me+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+There%2C+This+Is+Me+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile!;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </h1>
 
-<!-- Murim Character Images -->
-<img src="https://i.pinimg.com/originals/6d/14/90/6d149051bf6e0b4ef3fd1e8b3a5e6e57.gif" width="200" style="border-radius: 10px; margin: 10px;"/>
-<img src="https://i.pinimg.com/originals/33/9d/4e/339d4e8b963a76fc52b3765b2cc168bf.gif" width="200" style="border-radius: 10px; margin: 10px;"/>
-<img src="https://i.pinimg.com/originals/8a/8c/3f/8a8c3f2b3e4c5b0b6f4d3a1e2c8d9f0a.gif" width="200" style="border-radius: 10px; margin: 10px;"/>
+<!-- Decorative Weapons -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-<br/>
+⚔️ 🗡️ 🏹 ⚔️
 
 </div>
 
@@ -28,6 +29,11 @@ Hi! I'm **Christofio Komar**, a passionate developer from West Java, Indonesia. 
 - 📍 **Location:** Perum, West Java, Indonesia
 
 ## 🛠️ Tech Stack
+
+<!-- Weapon Divider -->
+<div align="center">
+🗡️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🗡️
+</div>
 
 ### Languages
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -45,7 +51,17 @@ Hi! I'm **Christofio Komar**, a passionate developer from West Java, Indonesia. 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+<!-- Weapon Divider -->
+<div align="center">
+⚔️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⚔️
+</div>
+
 ## 📊 GitHub Statistics
+
+<!-- Divider -->
+<div align="center">
+🏹━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🏹
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christofiokomar7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -54,6 +70,11 @@ Hi! I'm **Christofio Komar**, a passionate developer from West Java, Indonesia. 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=christofiokomar7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<!-- Divider -->
+<div align="center">
+⚔️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⚔️
 </div>
 
 ## 🏆 GitHub Trophies
@@ -89,9 +110,15 @@ Hi! I'm **Christofio Komar**, a passionate developer from West Java, Indonesia. 
 ---
 
 <div align="center">
-  
+
+<!-- Footer Divider -->
+🗡️ ⚔️ 🏹 ⚔️ 🗡️
+
 ![Profile Views](https://komarev.com/ghpvc/?username=christofiokomar7&color=blueviolet&style=flat-square)
 
 **💡 "Code is like humor. When you have to explain it, it's bad." - Cory House**
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24&height=100&section=footer" width="100%"/>
 
 </div>
