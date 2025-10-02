@@ -3,11 +3,11 @@
 <!-- Wave Gradient Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,800080&height=200&section=header&text=Christofio%20Adeputra%20Komar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4CED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Christofio+Adeputra+Komar;From+Central+Java%2C+Indonesia;Passionate+Web+%26+Database+Developer;Let's+Build+Something+Amazing!" alt="Typing SVG"/>
+<!-- Typing Animation (Merah → Ungu, bukan pink) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000,800080&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Christofio+Adeputra+Komar;From+Central+Java%2C+Indonesia;Passionate+Web+%26+Database+Developer;Let's+Build+Something+Amazing!" alt="Typing SVG"/>
 
 <!-- Decorative Plum Blossom Petals GIF -->
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="falling petals"/>
+<img src="https://i.gifer.com/7efs.gif" width="200" alt="plum blossom petals falling"/>
 
 </div>
 
@@ -25,9 +25,8 @@ I specialize in database management and web development, always eager to learn a
 
 ---
 
-<!-- Divider with Plum Blossom Petals -->
 <div align="center">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="petals divider"/>
+<img src="https://i.gifer.com/fyDL.gif" width="400" alt="petals divider"/>
 </div>
 
 ---
@@ -53,9 +52,8 @@ I specialize in database management and web development, always eager to learn a
 
 ---
 
-<!-- Divider Plum Blossom -->
 <div align="center">
-<img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="200" alt="falling petals"/>
+<img src="https://i.gifer.com/4V0b.gif" width="300" alt="soft petals falling"/>
 </div>
 
 ---
@@ -74,8 +72,8 @@ I specialize in database management and web development, always eager to learn a
 
 <div align="center">
 
-<!-- Footer Petals -->
-<img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="250" alt="plum blossom petals"/>  
+<!-- Footer Plum Blossom Petals -->
+<img src="https://i.gifer.com/3HeW.gif" width="220" alt="plum blossom footer"/>  
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,800080&height=100&section=footer"/>
