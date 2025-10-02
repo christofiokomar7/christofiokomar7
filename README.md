@@ -1,6 +1,11 @@
-<!-- Header Banner -->
+<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000:800080&height=200&section=header&text=Christofio%20Adeputra%20Komar&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000:800080&height=220&section=header&text=Christofio%20Adeputra%20Komar&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+
+<!-- Animated Coding GIF -->
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="250"/>
+
 </div>
 
 ---
@@ -23,16 +28,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=christofiokomar7&show_icons=true&theme=radical&hide_border=true&title_color=ff0000&icon_color=ff00ff&text_color=ffffff&bg_color=0d1117" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christofiokomar7&layout=compact&theme=radical&hide_border=true&title_color=800080&text_color=ffffff&bg_color=0d1117" height="180px"/>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500"/>
 
 </div>
 
@@ -58,7 +55,9 @@
 
 ---
 
-<!-- Footer Banner -->
+<!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800080:ff0000&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=800080:ff0000&height=120&section=footer"/>
+
 </div>
