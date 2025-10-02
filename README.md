@@ -97,15 +97,24 @@ Hi! I'm **Christofio Komar**, a passionate developer from Central Java, Indonesi
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=christofiokomar7&repo=project-name-2&theme=tokyonight&hide_border=true)](https://github.com/christofiokomar7/project-name-2)
 -->
 
-## 📫 Connect With Me
+## 📫 Connect With Me  
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-christofiokomar7-181717?style=for-the-badge&logo=github)](https://github.com/christofiokomar7)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](christofiokomar7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christofio komar)
+<a href="https://github.com/christofiokomar7" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-christofiokomar7-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="mailto:christofiokomar7@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-christofiokomar7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://linkedin.com/in/christofio-adeputra-komar" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Christofio%20Adeputra%20Komar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
+
 
 ---
 
