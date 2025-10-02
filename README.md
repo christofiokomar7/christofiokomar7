@@ -1,13 +1,13 @@
 <div align="center">
 
+<!-- Wave Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,800080&height=200&section=header&text=Christofio%20Adeputra%20Komar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=header&text=Christofio%20Adeputra%20Komar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4CED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Christofio+Adeputra+Komar;From+Central+Java%2C+Indonesia;Passionate+Web+%26+Database+Developer;Let's+Build+Something+Amazing!" alt="Typing SVG"/>
 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Christofio+Adeputra+Komar;From+Central+Java%2C+Indonesia;Passionate+Web+%26+Database+Developer;Let's+Build+Something+Amazing!" alt="Typing SVG"/>
-
-
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250" alt="cyber coding gif"/>
+<!-- Decorative Plum Blossom Petals GIF -->
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="falling petals"/>
 
 </div>
 
@@ -22,6 +22,13 @@ I specialize in database management and web development, always eager to learn a
 - 💼 **Currently:** Mastering Full Stack Development  
 - 🌱 **Learning:** Advanced SQL optimization and modern JavaScript frameworks  
 - 📍 **Location:** Central Java, Indonesia  
+
+---
+
+<!-- Divider with Plum Blossom Petals -->
+<div align="center">
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="petals divider"/>
+</div>
 
 ---
 
@@ -46,6 +53,13 @@ I specialize in database management and web development, always eager to learn a
 
 ---
 
+<!-- Divider Plum Blossom -->
+<div align="center">
+<img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="200" alt="falling petals"/>
+</div>
+
+---
+
 ## 📫 Connect With Me  
 
 <div align="center">
@@ -60,10 +74,10 @@ I specialize in database management and web development, always eager to learn a
 
 <div align="center">
 
+<!-- Footer Petals -->
+<img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="250" alt="plum blossom petals"/>  
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="footer coding gif"/>  
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=100&section=footer"/>
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,800080&height=100&section=footer"/>
 
 </div>
