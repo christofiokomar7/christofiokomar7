@@ -65,6 +65,9 @@ const christofio = {
 
 <div align="center">
 
+<!-- Weapon Divider -->
+🗡️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🗡️
+
 ### 💻 Languages & Frameworks
 
 <p>
@@ -98,6 +101,9 @@ const christofio = {
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
+<!-- Sword Divider -->
+⚔️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⚔️
+
 </div>
 
 ---
@@ -105,6 +111,9 @@ const christofio = {
 ## 📊 GitHub Statistics
 
 <div align="center">
+
+<!-- Bow and Arrow Divider -->
+🏹━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🏹
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=christofiokomar7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=FFFFFF" alt="GitHub Stats"/>
   
@@ -122,51 +131,46 @@ const christofio = {
   <img src="https://github-profile-trophy.vercel.app/?username=christofiokomar7&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
----
-
-## 🎯 Current Focus & Goals
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎓 Learning] --> B[💡 Building]
-    B --> C[🚀 Deploying]
-    C --> D[📈 Growing]
-    D --> A
-    
-    style A fill:#0f2027,stroke:#00C9FF,stroke-width:2px,color:#fff
-    style B fill:#203a43,stroke:#00C9FF,stroke-width:2px,color:#fff
-    style C fill:#2c5364,stroke:#00C9FF,stroke-width:2px,color:#fff
-    style D fill:#0f2027,stroke:#00C9FF,stroke-width:2px,color:#fff
-```
+<!-- Spear Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
-<table align="center">
+---
+
+## ⚔️ Skills & Expertise
+
+<div align="center">
+
+<!-- Sword Animation Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+### 🗡️ My Arsenal
+
+<table>
   <tr>
-    <td align="center" width="50%">
-      <h3>🎯 2024 Goals</h3>
-      <ul align="left">
-        <li>✅ Master SQL optimization techniques</li>
-        <li>🔄 Build 5+ full-stack projects</li>
-        <li>📚 Learn cloud technologies (AWS/GCP)</li>
-        <li>🤝 Contribute to open source</li>
-        <li>📝 Write technical blog posts</li>
-      </ul>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"/>
+      <h4>Database Mastery</h4>
+      <p>SQL Optimization • Query Tuning<br/>Data Modeling • Performance</p>
     </td>
-    <td align="center" width="50%">
-      <h3>🌱 Currently Learning</h3>
-      <ul align="left">
-        <li>🔹 Advanced Database Indexing</li>
-        <li>🔹 RESTful API Design</li>
-        <li>🔹 Modern JavaScript (ES6+)</li>
-        <li>🔹 Database Performance Tuning</li>
-        <li>🔹 Web Security Best Practices</li>
-      </ul>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
+      <h4>Frontend Development</h4>
+      <p>HTML5 • CSS3<br/>JavaScript • Responsive Design</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"/>
+      <h4>Problem Solving</h4>
+      <p>Debugging • Code Review<br/>Best Practices • Clean Code</p>
     </td>
   </tr>
 </table>
+
+<!-- Sword Divider -->
+⚔️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⚔️
+
+</div>
 
 ---
 
