@@ -1,9 +1,18 @@
 <div align="center">
 
 <!-- Header Murim Theme -->
-<img src="https://i.pinimg.com/originals/c8/61/8e/c8618e6e348441bf54766034005b1470.gif" width="100%" height="250" style="object-fit: cover;"/>
+<img src="https://i.imgur.com/8XyXQrz.gif" width="100%" height="300" style="object-fit: cover;"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+There%2C+This+Is+Me+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+There%2C+This+Is+Me+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+</h1>
+
+<!-- Murim Character Images -->
+<img src="https://i.pinimg.com/originals/6d/14/90/6d149051bf6e0b4ef3fd1e8b3a5e6e57.gif" width="200" style="border-radius: 10px; margin: 10px;"/>
+<img src="https://i.pinimg.com/originals/33/9d/4e/339d4e8b963a76fc52b3765b2cc168bf.gif" width="200" style="border-radius: 10px; margin: 10px;"/>
+<img src="https://i.pinimg.com/originals/8a/8c/3f/8a8c3f2b3e4c5b0b6f4d3a1e2c8d9f0a.gif" width="200" style="border-radius: 10px; margin: 10px;"/>
+
+<br/>
 
 </div>
 
