@@ -1,19 +1,16 @@
 <div align="center">
 
-<!-- Animated Header -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,100:2c5364&height=220&section=header&text=Christofio%20Adeputra%20Komar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Christofio+Adeputra+Komar+%F0%9F%91%8B;From+Central+Java%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Passionate+Web+%26+Database+Developer+%F0%9F%92%BB;Let's+Build+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
-<!-- Coding GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation"/>
 
 <br/>
 
-<!-- Social Stats -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=christofiokomar7&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/christofiokomar7?label=Followers&style=social" alt="followers" />
@@ -29,7 +26,7 @@
 const christofio = {
     name: "Christofio Adeputra Komar",
     location: "Central Java, Indonesia 🇮🇩",
-    title: "Full Stack Developer | Database Specialist",
+    title: Ungraduated
     
     currentFocus: [
         "SQL Database Management",
@@ -120,7 +117,6 @@ const christofio = {
 
 <div align="center">
 
-### 🎯 My Arsenal
 
 <table>
   <tr>
@@ -149,13 +145,6 @@ const christofio = {
 ## 💼 Featured Projects
 
 <div align="center">
-
-<!-- Uncomment dan isi dengan project Anda -->
-<!--
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=christofiokomar7&repo=project-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=FFFFFF)](https://github.com/christofiokomar7/project-name)
-
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=christofiokomar7&repo=project-name-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=FFFFFF)](https://github.com/christofiokomar7/project-name-2)
--->
 
 <p><i>🚀 Coming soon! I'm currently working on exciting projects...</i></p>
 
@@ -197,7 +186,6 @@ const christofio = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <i>Happy Coding!</i> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,100:2c5364&height=120&section=footer" width="100%"/>
 
 </div>
