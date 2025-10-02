@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000:800080&height=220&section=header&text=Christofio%20Adeputra%20Komar&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000:800080&height=220&section=header&text=Christofio%20Adeputra%20Komar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&fontAlign=50&font=poppins"/>
 
 <!-- Animated Coding GIF -->
-<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="250"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
 </div>
 
