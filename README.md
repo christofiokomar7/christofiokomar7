@@ -21,12 +21,12 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Christofio Komar**, a passionate developer from West Java, Indonesia. I specialize in database management and web development, always eager to learn and build something awesome.
+Hi! I'm **Christofio Komar**, a passionate developer from Central Java, Indonesia. I specialize in database management and web development, always eager to learn and build something awesome.
 
 - 🎯 **Focus:** SQL Database Management & Web Development
 - 💼 **Currently:** Mastering Full Stack Development
 - 🌱 **Learning:** Advanced SQL optimization and modern JavaScript frameworks
-- 📍 **Location:** Perum, West Java, Indonesia
+- 📍 **Location:** Indonesia
 
 ## 🛠️ Tech Stack
 
