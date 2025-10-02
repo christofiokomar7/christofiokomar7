@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Wave Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,800080&height=200&section=header&text=Christofio%20Adeputra%20Komar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,800080&height=200&section=header&text=Christofio%20Adeputra%20Komar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<!-- Typing Animation (Merah → Ungu, bukan pink) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000,800080&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Christofio+Adeputra+Komar;From+Central+Java%2C+Indonesia;Passionate+Web+%26+Database+Developer;Let's+Build+Something+Amazing!" alt="Typing SVG"/>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF0000,800080&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Christofio+Adeputra+Komar;From+Central+Java%2C+Indonesia;Passionate+Web+%26+Database+Developer;Let's+Build+Something+Amazing!" alt="Typing SVG"/>
 
-<!-- Decorative Plum Blossom Petals GIF -->
-<img src="https://i.gifer.com/7efs.gif" width="200" alt="plum blossom petals falling"/>
+<!-- Decorative Plum Blossom GIF -->
+<img src="https://i.gifer.com/9t5o.gif" width="200" alt="plum blossom petals falling"/>
 
 </div>
 
@@ -25,8 +25,9 @@ I specialize in database management and web development, always eager to learn a
 
 ---
 
+<!-- Divider with petals -->
 <div align="center">
-<img src="https://i.gifer.com/fyDL.gif" width="400" alt="petals divider"/>
+  <img src="https://i.gifer.com/origin/7e/7e3b6e89165e7a9b24e3a4b80c9a2c8a.gif" width="320" alt="plum blossom divider"/>
 </div>
 
 ---
@@ -52,8 +53,9 @@ I specialize in database management and web development, always eager to learn a
 
 ---
 
+<!-- Divider with petals -->
 <div align="center">
-<img src="https://i.gifer.com/4V0b.gif" width="300" alt="soft petals falling"/>
+  <img src="https://i.gifer.com/4V0b.gif" width="280" alt="soft petals falling"/>
 </div>
 
 ---
