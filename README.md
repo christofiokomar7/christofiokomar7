@@ -1,16 +1,88 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**christofiokomar7/christofiokomar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Header Murim Theme -->
+<img src="https://i.pinimg.com/originals/c8/61/8e/c8618e6e348441bf54766034005b1470.gif" width="100%" height="250" style="object-fit: cover;"/>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+There%2C+This+Is+Me+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+Hi! I'm **Christofio Komar**, a passionate developer from West Java, Indonesia. I specialize in database management and web development, always eager to learn and build something awesome.
+
+- 🎯 **Focus:** SQL Database Management & Web Development
+- 💼 **Currently:** Mastering Full Stack Development
+- 🌱 **Learning:** Advanced SQL optimization and modern JavaScript frameworks
+- 📍 **Location:** Perum, West Java, Indonesia
+
+## 🛠️ Tech Stack
+
+### Languages
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christofiokomar7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christofiokomar7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christofiokomar7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=christofiokomar7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christofiokomar7&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+## 💼 Featured Projects
+
+<!-- Uncomment dan sesuaikan dengan repository Anda -->
+<!-- 
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=christofiokomar7&repo=project-name&theme=tokyonight&hide_border=true)](https://github.com/christofiokomar7/project-name)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=christofiokomar7&repo=project-name-2&theme=tokyonight&hide_border=true)](https://github.com/christofiokomar7/project-name-2)
 -->
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-christofiokomar7-181717?style=for-the-badge&logo=github)](https://github.com/christofiokomar7)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=christofiokomar7&color=blueviolet&style=flat-square)
+
+**💡 "Code is like humor. When you have to explain it, it's bad." - Cory House**
+
+</div>
