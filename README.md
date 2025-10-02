@@ -1,7 +1,11 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000:800080&height=220&section=header&text=Christofio%20Adeputra%20Komar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&fontAlign=50&font=poppins"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000:800080&height=220&section=header"/>
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+I'm+Christofio+Adeputra+Komar;Web+Developer+%26+Database+Engineer;Always+Learning+New+Things!" alt="Typing SVG" />
+</h1>
 
 <!-- Animated Coding GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
@@ -10,11 +14,17 @@
 
 ---
 
-## 👋 About Me  
+## 👨‍💻 About Me  
 
 💻 Fokus pada **Web Development, Database, dan System Design**  
 ⚡ Suka mengembangkan solusi digital yang efisien dan rapi  
 🚀 Selalu ingin belajar teknologi baru untuk meningkatkan skill  
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500"/>
+</div>
 
 ---
 
@@ -28,8 +38,18 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="server gif"/>
+
+</div>
+
+---
+
+## 💼 Featured Projects  
+
+<div align="center">
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=christofiokomar7&repo=logbook-system&theme=radical&hide_border=true)](https://github.com/christofiokomar7/logbook-system)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=christofiokomar7&repo=employee-dashboard&theme=radical&hide_border=true)](https://github.com/christofiokomar7/employee-dashboard)
 
 </div>
 
