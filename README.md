@@ -9,14 +9,7 @@
 <br/>
 
 <!-- Coding GIF -->
-<img src="https://i.imgur.com/dTYwdG1.gif" width="400" alt="sword animation"/>
-
-<br/>
-
-<!-- Animated Sword Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-
-<br/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation"/>
 
 <!-- Social Stats -->
 <p>
@@ -53,6 +46,18 @@ const christofio = {
     lifeGoal: "Build impactful solutions that make a difference"
 };
 ```
+
+<div align="center">
+
+### 🎯 What I Do
+
+| 💾 Database | 🌐 Frontend | 🔧 Backend | 🛠️ Tools |
+|------------|------------|-----------|---------|
+| Design & Optimize | Build Interfaces | Server Logic | Version Control |
+| Query Tuning | Responsive Design | API Development | CI/CD |
+| Data Modeling | User Experience | Database Integration | Debugging |
+
+</div>
 
 ---
 
