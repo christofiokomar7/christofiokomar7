@@ -11,6 +11,8 @@
 <!-- Coding GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation"/>
 
+<br/>
+
 <!-- Social Stats -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=christofiokomar7&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -47,26 +49,11 @@ const christofio = {
 };
 ```
 
-<div align="center">
-
-### 🎯 What I Do
-
-| 💾 Database | 🌐 Frontend | 🔧 Backend | 🛠️ Tools |
-|------------|------------|-----------|---------|
-| Design & Optimize | Build Interfaces | Server Logic | Version Control |
-| Query Tuning | Responsive Design | API Development | CI/CD |
-| Data Modeling | User Experience | Database Integration | Debugging |
-
-</div>
-
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-
-<!-- Weapon Divider -->
-🗡️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🗡️
 
 ### 💻 Languages & Frameworks
 
@@ -101,9 +88,6 @@ const christofio = {
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-<!-- Sword Divider -->
-⚔️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⚔️
-
 </div>
 
 ---
@@ -111,9 +95,6 @@ const christofio = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<!-- Bow and Arrow Divider -->
-🏹━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🏹
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=christofiokomar7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=FFFFFF" alt="GitHub Stats"/>
   
@@ -131,9 +112,6 @@ const christofio = {
   <img src="https://github-profile-trophy.vercel.app/?username=christofiokomar7&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
-<!-- Spear Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
 </div>
 
 ---
@@ -142,10 +120,7 @@ const christofio = {
 
 <div align="center">
 
-<!-- Sword Animation Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-### 🗡️ My Arsenal
+### 🎯 My Arsenal
 
 <table>
   <tr>
@@ -167,9 +142,6 @@ const christofio = {
   </tr>
 </table>
 
-<!-- Sword Divider -->
-⚔️━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⚔️
-
 </div>
 
 ---
@@ -177,9 +149,6 @@ const christofio = {
 ## 💼 Featured Projects
 
 <div align="center">
-
-<!-- Battle Ready Divider -->
-⚔️ 🗡️ 🏹 ⚔️ 🗡️ 🏹 ⚔️
 
 <!-- Uncomment dan isi dengan project Anda -->
 <!--
@@ -189,8 +158,6 @@ const christofio = {
 -->
 
 <p><i>🚀 Coming soon! I'm currently working on exciting projects...</i></p>
-
-⚔️ 🗡️ 🏹 ⚔️ 🗡️ 🏹 ⚔️
 
 </div>
 
