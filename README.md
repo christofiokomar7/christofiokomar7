@@ -26,7 +26,7 @@
 const christofio = {
     name: "Christofio Adeputra Komar",
     location: "Central Java, Indonesia 🇮🇩",
-    title: Ungraduated
+    title: "Ungraduated"
     
     currentFocus: [
         "SQL Database Management",
