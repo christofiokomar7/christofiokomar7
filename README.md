@@ -37,7 +37,6 @@ const christofio = {
     learning: [
         "Advanced SQL Optimization",
         "Modern JavaScript Frameworks",
-        "Cloud Technologies"
     ],
     
     funFact: "I turn coffee into code ☕ → 💻",
