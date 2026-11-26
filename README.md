@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,100:2c5364&height=220&section=header&text=Christofio%20Adeputra%20Komar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,30:203a43,100:2c5364&height=220&section=header&text=Christofio%20Adeputra%fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Christofio+Adeputra+%F0%9F%91%8B;From+Central+Java%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Passionate+Web+%26+Database+Developer+%F0%9F%92%BB;Let's+Build+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG"/>
 
