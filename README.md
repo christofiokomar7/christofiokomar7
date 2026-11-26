@@ -23,8 +23,8 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const christofio = {
-    name: "Christofio Adeputra Komar",
+const christ = {
+    name: "Christofio Adeputra",
     location: "Central Java, Indonesia 🇮🇩",
     title: "Ungraduated"
     
